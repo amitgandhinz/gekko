@@ -59,7 +59,7 @@ method.log = function(candle) {
     "MACD: " + macdValue,
     "BB_L: " + bbandsLower,
     "BB_M: " + bbandsMiddle,
-    "BB_U: " + bbandsUpper,
+    "BB_U: " + bbandsUpper
   )
 
   /*
